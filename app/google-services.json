@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "573899930177",
+    "firebase_url": "https://fir-c859e.firebaseio.com",
+    "project_id": "fir-c859e",
+    "storage_bucket": "fir-c859e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573899930177:android:c4cefe28187c6e60fd24c0",
+        "android_client_info": {
+          "package_name": "com.betulcetin.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573899930177-46aobhp3b7o7dsqh6gjkopc6p94dgqtk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy1zeZX-_OTq7sY2BdkjBajEfDCGTDKEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573899930177-46aobhp3b7o7dsqh6gjkopc6p94dgqtk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
